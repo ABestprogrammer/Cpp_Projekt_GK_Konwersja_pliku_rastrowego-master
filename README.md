@@ -1,4 +1,4 @@
-# C++ - Projekt Grafika Komputerowa - Konwtenter pliku BMP -> HAMA oraz HAMA -> BMP
+# C++ - Projekt Grafika Komputerowa - Rasteryzacja pliku BMP/HAMA
 Aplikacja konsolowa wykorzstywana do konwersji dowolnego pliku BMP na utworzony nowy typ pliku HAMA (<a href="https://github.com/Happis255/Cpp_Projekt_GK_Konwersja_pliku_lastrowego/blob/master/Specyfikacja-pliku-rastrowego-Temat-12-Grupa-10%20(1).pdf">specyfikacja</a>) z wykorzystaniem 4 możliwych typów konwersji:
 
 1) Konwersja kolorowa z narzuconą paletą kolorów
